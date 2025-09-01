@@ -1,7 +1,7 @@
 [project]
 name = "more-more-itertools"
-version = "0.1.20250812"
-description = "Additions to more-itertools: at_least_n() and at_most_n()"
+version = "0.1.20250901"
+description = "Additions to more-itertools: at_least_n(), at_most_n(), throttle()"
 readme = "README.md"
 keywords = ["itertools", "more-itertools", ]
 authors = [{ name = "Dutcho" }, ]
